@@ -11,5 +11,5 @@ export default defineConfig({
   screens: {
     'xs': '480px',  // Adding an extra-small breakpoint
     '3xl': '1600px', // Adding an extra-large breakpoint
-  },
-})
+  }
+});
